@@ -1,0 +1,12 @@
+BINOME: AWOUNANG ET ATSANGOU
+
+1. Thème de projet pour la création d'une application mobile pour une clinique: Clinique
+2. Conception et réalisation d'un site web/mobile pour la gestion des cours de formation en ligne : INTERFACE SA
+3. Conseption et réaisation d'un site mobile pour le suivi des colis : INTERFACE
+4. Developpement de l'application EasyRoom pour la recherche facile des chambres pour étudiant : A titre personnel
+5. Conception et realisation d'un site web mobile pour la gestion de la presence effective au poste de travail : CENADI
+6. Conception et réalisation d'une application web pour la gestion des courriers ( courrier interne, courrier arrivé, courrier départ) :INTERFACE SA
+7. Conception et réalisation d'une application web pour la virtualisation des agences d'assurance : INTERFACE SA
+8. Réalistion d'un système d'hebergement en ligne : HOTEL BETULI
+9. Conception d'une application de planification automatique d'emploi de temps :IUC
+10. Developpement d'une application de gestion d'une réunion : Denkwop Bassa
